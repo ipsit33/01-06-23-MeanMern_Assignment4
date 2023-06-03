@@ -1,0 +1,116 @@
+{
+  "logData": [
+    {
+      "id": 1685784923172,
+      "email": "ipsit123@gmail.com",
+      "password": "ipsit123",
+      "name": "Ipsit",
+      "phone": "9090534389"
+    },
+    {
+      "id": 1685785095580,
+      "email": "ankit123@gmail.com",
+      "password": "ankit123",
+      "name": "Ankit Nayak",
+      "phone": "82638881"
+    },
+    {
+      "id": 1685785149567,
+      "email": "arman123@gmail.com",
+      "password": "arman123",
+      "name": "Arman Mallik",
+      "phone": "7721190211"
+    },
+    {
+      "id": 1685787747424,
+      "email": "kookiedas8@gmail.com",
+      "password": "kookie12",
+      "name": "Kookie",
+      "phone": "9332288444"
+    },
+    {
+      "id": 1685787847134,
+      "email": "pramukh@gmail.com",
+      "password": "pramukh123",
+      "name": "Pramukh Rout",
+      "phone": "8443211093"
+    },
+    {
+      "id": 1685789594246,
+      "email": "pranati23@gmail.com",
+      "password": "pranati",
+      "name": "Pranati",
+      "phone": "94327173733"
+    },
+    {
+      "id": 1685789662225,
+      "email": "tushar010@gmail.com",
+      "password": "tushar123",
+      "name": "Tushar Ranjan",
+      "phone": "8892339113"
+    },
+    {
+      "id": 1685789780649,
+      "email": "minakshi@gmail.com",
+      "password": "minak",
+      "name": "Minakshi",
+      "phone": "2689921223"
+    },
+    {
+      "id": 1685790377025,
+      "email": "jyotisenpai@gmail.com",
+      "password": "jyoti123",
+      "name": "Jyoti Mishra",
+      "phone": "665478995"
+    },
+    {
+      "id": 1685790691865,
+      "email": "papun12@gmail.com",
+      "password": "papun123",
+      "name": "Papun",
+      "phone": "786414223"
+    },
+    {
+      "id": 1685791071265,
+      "email": "yotik122@gmail.com",
+      "password": "yoi123",
+      "name": "yatika",
+      "phone": "43553"
+    },
+    {
+      "id": 1685791397320,
+      "email": "tulsi08@gmail.com",
+      "password": "tulsi0810",
+      "name": "Tulsi Patel",
+      "phone": "8697432145"
+    },
+    {
+      "id": 1685791495729,
+      "email": "hriday87@gmail.com",
+      "password": "hriday12",
+      "name": "Hriday Narayn",
+      "phone": "23949445"
+    },
+    {
+      "id": 1685794553995,
+      "email": "ayushbehera010@gmail.com",
+      "password": "ayush123",
+      "name": "Ayush Behera",
+      "phone": "8357466125"
+    },
+    {
+      "id": 1685794818202,
+      "email": "umng@gmail.com",
+      "password": "umng678",
+      "name": "umang",
+      "phone": "6595442368"
+    },
+    {
+      "id": 1685795125431,
+      "email": "mukeshsingh@gmail.com",
+      "password": "mukesh123",
+      "name": "Mukesh Singh",
+      "phone": "98645332111"
+    }
+  ]
+}

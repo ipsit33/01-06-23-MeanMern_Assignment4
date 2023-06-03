@@ -1,0 +1,155 @@
+/* nav bar */
+nav {
+    background-color: rgb(0, 195, 255);
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    display: block;
+    color: #010101;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #555;
+    transform: scale(1.3);
+  }
+
+h1{
+    text-align: center;
+    font-family: "Showcard Gothic", sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* create account */
+#create_id{
+    background-color: darkkhaki;
+}
+#create_id input{
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    width: 20%;
+    height: 30px;
+
+}
+
+/* restaurant main page */
+#rest{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    background-color: rgb(37, 255, 73);
+}
+#rest img{
+    width: 90%;
+    height: 80%;
+    object-fit: cover;
+    border: 6px solid rgb(207, 200, 0);
+}
+body{
+    background-color: rgb(192, 255, 120);
+}
+#rest div {
+    display: grid;
+    grid-template-rows: auto 1fr auto auto;
+    padding: 10px;
+    background-color: gray;
+  }
+#rest p{
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+#rest h3 {
+    font-size: 18px;
+    margin: 0;
+    display: flex;
+    align-items: center; 
+  }
+  #rest img:hover{width: 96%;
+height: 85%;}
+
+/* login page */
+#login_acc{
+    background-color: khaki;
+}
+#login_account{
+    background-color: darkkhaki;
+}
+#login_account input{
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    width: 20%;
+    height: 30px;
+
+}
+
+/* form fill */
+#form {
+    height: 400px;
+    background-color: rgb(0, 255, 195);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  #form h2 {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  #form input,
+  #form textarea {
+    margin: 5px;
+    width: 30%;
+    height: 30px;
+    padding: 5px;
+  }
+  
+  #form input.review {
+    height: 120px;
+    text-align: justify;
+    white-space: normal;
+  }
+  
+  #form button {
+    width: 10%;
+    height: 50px;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #form button:hover {
+    background-color: #555;
+    transform: scale(1.3);
+  }

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter your details</title>
+    <link rel="stylesheet" href="./assign4.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="./assign4_main.html" id="home">Home</a></li>
+            <li><a href="./assign4_createacc.html">Create Account</a></li>
+            <li><a href="./assign4_login.html">Login</a></li>
+        </ul>
+      </nav>
+      <h1>Fill the form</h1>
+      <div id="form">
+        <h2>Image URL: </h2>
+        <input type="url" id="imgurl" placeholder="Enter your URL"><br>
+        <h2>Restaurant's Name: </h2>
+        <input type="text" id="rname" placeholder="Enter the name"><br>
+        <h2>Restaurant's Review</h2>
+        <input type="text" id="rreview" placeholder="Enter your review" class="review">
+        <button onclick="submitForm()" id="sub">Submit</button>
+      </div>
+    
+</body>
+<script src="./assign4-form.js"></script>
+</html>
